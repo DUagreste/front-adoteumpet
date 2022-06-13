@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
-import Title from '../ui/components/title/title'
-import List from '../ui/components/list/list'
+import Title from '../components/title/title'
+import List from '../components/list/list'
 import { Dialog, DialogActions, Grid, TextField, Button, Snackbar } from '@mui/material'
 import { useState } from 'react'
 import { useIndex } from '../data/hooks/pages/useIndex'

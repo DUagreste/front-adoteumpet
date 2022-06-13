@@ -7,8 +7,8 @@ import {
     Description,
     Name,
 } from './list.style'
-import { Pet } from '../../../data/@types/Pets'
-import { TextService } from '../../../data/services/TextService'
+import { Pet } from '../../data/@types/Pets'
+import { TextService } from '../../data/services/TextService'
 
 
 interface ListProps {
