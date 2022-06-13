@@ -1,6 +1,6 @@
 import { NextPage } from "next";
 import { useRegister } from "../../data/hooks/pages/useRegister";
-import Title from "../../ui/components/title/title";
+import Title from "../../components/title/title";
 import { Paper, Grid, Button, TextField, Snackbar } from "@mui/material";
 
 const Register: NextPage = () => {

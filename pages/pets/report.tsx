@@ -1,5 +1,5 @@
 import { NextPage } from "next";
-import Title from "../../ui/components/title/title";
+import Title from "../../components/title/title";
 import { Paper, Table,
         TableContainer,
         TableHead,
